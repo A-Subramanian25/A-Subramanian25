@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @A-Subramanian25
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning web development 
