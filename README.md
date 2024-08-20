@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @A-Subramanian25
 - 👀 I’m interested in coding
 - 🚀 Highly motivated to continually improve my coding skills and delve deeper into various programming languages.👩‍💻👨‍💻
-- 🎨 Excitedly learning and honing the art of Photoshop to create stunning designs.
-- 🔒 Excitedly learning and exploring the world of Cybersecurity and Ethical Hacking.
